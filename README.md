@@ -9,5 +9,5 @@
 <!---
 Badbot2/Badbot2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-[nix-shell:~/Code/bin]$ cargo build --release Compiling bin v1.0.0 (/Users/jordanjd/Code/bin) Finished release [optimized] target(s) in 3.61s [nix-shell:~/Code/bin]$ ./target/release/bin
+--
+
