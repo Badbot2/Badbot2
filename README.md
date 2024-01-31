@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Badbot2
+Hello Github 👋🏿! I just saw the lists feature on the beta version and it's such a useful addition for me because my starred repos were getting quite cumbersome 😅. This sort of helps me to group and easily sort my starred repositories. Thanks and kudos to the team.
+In addition to this feature. One feature I would love to commend and maybe see on the list is the drag and drop feature which is on the pinned section on a person's profile.
+I feel this would take the experience a step further. Going through a long list of repos can get overwhelming. Being able to set them them in that grid arrangement and being able to use the drag tool to arrange,sort or group these starred repos would be a nice addition.
+For this, maybe add a toggle button to switch the display mode to grid or list view.
+Thanks for all you do. I hope this gets to you 😬😬😬- 👋 Hi, I’m @Badbot2
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
